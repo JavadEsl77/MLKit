@@ -1,11 +1,11 @@
 package com.javadesl.mlkit
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import com.javadesl.mlkit.databinding.ActivityMainBinding
 import com.javadesl.mlkit.helpers.ImageHelperActivity
+//import com.google.mlkit.samples.nl.translate.R
 
 class MainActivity : AppCompatActivity() {
 
